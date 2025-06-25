@@ -1,0 +1,6 @@
+build_configs:
+  pawiecz:
+    tree: pawiecz
+    branch: 'for-kernelci'
+    architectures:
+      - x86_64
